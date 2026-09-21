@@ -1,0 +1,24 @@
+{
+  "presets": [
+    { "id": "01", "file": "01.png", "source": "shadcn-ui" },
+    { "id": "02", "file": "02.png", "source": "shadcn-ui" },
+    { "id": "03", "file": "03.png", "source": "shadcn-ui" },
+    { "id": "04", "file": "04.png", "source": "shadcn-ui" },
+    { "id": "05", "file": "05.png", "source": "shadcn-ui" },
+    { "id": "06", "file": "06.png", "source": "shadcn-ui" },
+    { "id": "07", "file": "07.png", "source": "shadcn-ui" },
+    { "id": "08", "file": "08.png", "source": "shadcn-ui" },
+    { "id": "09", "file": "09.png", "source": "shadcn-ui" },
+    { "id": "10", "file": "10.png", "source": "shadcn-ui" },
+    { "id": "11", "file": "11.jpg", "source": "shadcn-ui" },
+    { "id": "12", "file": "12.png", "source": "ventos-extended" },
+    { "id": "13", "file": "13.png", "source": "ventos-extended" },
+    { "id": "14", "file": "14.png", "source": "ventos-extended" },
+    { "id": "15", "file": "15.png", "source": "ventos-extended" },
+    { "id": "16", "file": "16.png", "source": "ventos-extended" },
+    { "id": "17", "file": "17.png", "source": "ventos-extended" },
+    { "id": "18", "file": "18.png", "source": "ventos-extended" },
+    { "id": "19", "file": "19.png", "source": "ventos-extended" },
+    { "id": "20", "file": "20.png", "source": "ventos-extended" }
+  ]
+}
